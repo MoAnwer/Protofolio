@@ -26,22 +26,22 @@ A modern, bilingual (Arabic/English) portfolio website built with React 19, Type
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js 18+ and pnpm
+- Node.js 18+ and npm
 
 ### Installation
 
 ```bash
 # Install dependencies
-pnpm install
+npm install
 
 # Start development server
-pnpm dev
+npm run dev
 
 # Build for production
-pnpm build
+npm run build
 
 # Preview production build
-pnpm preview
+npm run preview
 ```
 
 ## 🛠️ Tech Stack
