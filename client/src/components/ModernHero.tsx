@@ -75,7 +75,7 @@ export default function ModernHero() {
           {/* Stats */}
           <div className="grid grid-cols-3 gap-8 pt-12 border-t border-border/50">
             <div className="animate-fade-in-up" style={{ animationDelay: "0.1s" }}>
-              <p className="text-3xl font-bold text-accent">2+</p>
+              <p className="text-3xl font-bold text-accent">3</p>
               <p className="text-foreground/60 text-sm mt-2">
                 {isArabic ? "سنوات خبرة" : "Years Experience"}
               </p>
